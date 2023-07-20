@@ -1,0 +1,5 @@
+Texto e nDEV 1-er commit
+2-adicionado a DEV 2
+3.FEATURE ADDED
+4.FEATURE GET
+5.jaja
